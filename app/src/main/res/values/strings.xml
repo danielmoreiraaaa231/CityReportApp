@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CityReport</string>
+    <string name="title_activity_maps2">Maps2Activity</string>
+    <string name="title_activity_mapa_espacial_prefeitura">MapaEspacialPrefeituraActivity</string>
+</resources>
